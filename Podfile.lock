@@ -1,0 +1,18 @@
+PODS:
+  - Cely (2.0.3):
+    - Cely/Core (= 2.0.3)
+  - Cely/Core (2.0.3)
+
+DEPENDENCIES:
+  - Cely (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cely
+
+SPEC CHECKSUMS:
+  Cely: e3e3c51cb50e6ec1e7bb323dee103b056452319c
+
+PODFILE CHECKSUM: e1ef77ca411a0057e0132d2b467b57dfc9b109dd
+
+COCOAPODS: 1.5.3
